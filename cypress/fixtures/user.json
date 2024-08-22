@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+      "email": "mail@fortest.com",
+      "name": "testUser"
+    },
+    "refreshToken": "refreshToken",
+    "accessToken": "accessToken"
+  }
